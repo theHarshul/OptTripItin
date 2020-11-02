@@ -1,5 +1,5 @@
 # OptTripItin
-Ever find planning your trip in google maps tedious? Optimize your trip itinerary based on the number of days you're staying and optimize the order in which you visit them. This is inspired when I was trying to plan my 2 day trip to Kyoto. Web App Release coming soon.
+Ever find planning your trip in google maps tedious? Optimize your trip itinerary based on the number of days you're staying and optimize the order in which you visit them. This was inspired when I was trying to plan a 2 day trip in Kyoto. Web App Release coming soon.
 
 ## My Messy Kyoto Itinerary- All destinations plotted on Google Maps
 ![kyoto-all](kyoto-all.png)
